@@ -85,8 +85,8 @@ h6 {
 #header .profile img {
   margin: 20px auto;
   display: block;
-  width: 110px;
-  height: 110px;
+  width: 125px;
+  height: 125px;
   border: 8px solid #2c2f3f;
 }
 
@@ -229,8 +229,9 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url('https://wallpapers.com/images/featured/javascript-pnr9lrhwaigq76mb.jpg') top center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #hero:before {
@@ -269,7 +270,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #ffffff;
 }
 
 @media (min-width: 1024px) {
